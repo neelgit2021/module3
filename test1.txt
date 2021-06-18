@@ -1,3 +1,2 @@
 This is my first file in main repo.
 
-This is on local repo.
